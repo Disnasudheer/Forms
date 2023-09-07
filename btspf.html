@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Forms
+        </title>
+        <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1>Feedback Form</h1>
+        <div>
+            <p>
+                Hy! I would like to gather your feedback over what's studying and what is'nt.
+                Take time to flip through the slides and let me know what you think-any feedback will be appreciated..!
+            </p>
+            <form id="feedback" name="registration" action="home.html" method="post" enctype= " ">
+                <div> name</div>
+                <span><input type="text" /></span>
+                <div> email</div>
+                <div><input type="text" /></div>
+                <div> address</div>
+                <div><textarea rows="8" cols="18" ></textarea></div>
+
+
+                <div>gender</div>
+                <div><span>Male<input type="radio" id="gender" name="gender" /></span>
+                    <span>female<input type="radio" id="gender" name="gender" /></span> 
+                    <span>transgender<input type="radio" id="gender" name="gender" /></span>  
+                </div>
+                <div>age</div>
+                <div><select id="age" name="age" /><option selected>please select</option>
+                <option value="less than 10">0-10</option>
+                <option>10-25</option>
+                <option>25-40</option>
+                <option>40 above</option>
+            </select></div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>

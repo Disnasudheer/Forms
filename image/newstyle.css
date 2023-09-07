@@ -1,0 +1,29 @@
+body{
+    background-image: url("./images/img.jpg");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:light blue;
+}
+        table{
+            background-color:rgb(255,199,271) ;
+        font-family:cursive;
+        width:80%;
+    }
+        th{color:green;
+        font-size:65%;
+    text-align: left;}
+        td{
+            color:white;
+        font-size:100%;
+        text-align: center;
+    }
+        /*h1{
+            text-align:center;
+        color:orange;
+
+    }*/
+
+#p1{
+    opacity: 0.8;
+}

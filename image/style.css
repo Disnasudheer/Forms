@@ -1,0 +1,51 @@
+*{
+    text-align: center;  
+}
+body {
+background-color: aquamarine;
+
+}
+table
+{
+    border: 15; width: 15;
+background-color: green;
+font-family: Verdana sans-serif;
+}
+th{
+background-color: azure;
+font-size: 50px;
+}
+tr{
+background-color: blue;
+}
+h1
+{
+    
+    font-family: Verdana, Tahoma, sans-serif;
+    border: 50px;
+    width: 30px;
+color: brown;
+text-align: center;
+}
+#p1
+{
+    opacity: 0.1;
+color: blueviolet;
+font-family: Verdana, sans-serif serif;
+
+}
+#p2
+.para{
+color: red;
+font-family: cursive;
+
+}
+div.para{
+color: red;
+font-family: cursive;
+}
+div{
+    background-color: green;
+}
+
+
