@@ -1,15 +1,20 @@
 body{ 
-    background-color:beige ; margin-left: 3%; padding-top: 2%; }
+    background-color:beige ; 
+    margin-left: 3%;
+     padding-top: 2%; }
 .par1{
     float: left;} 
 .par2{
-     float: left; padding-left: 4%; } 
-.par0{
-    border-style: solid; border-width: 5px; } 
+     float: left;
+      padding-left: 4%; } 
+ 
 .par3{
      padding-top: 40%; } 
 a{
-    text-decoration: none; color: black; padding: 5%; padding-top: 2%;} 
+    text-decoration: none; 
+    color: black;
+     padding: 5%;
+      padding-top: 2%;} 
 h1{
      padding-top:2% ; } 
 .par4{
